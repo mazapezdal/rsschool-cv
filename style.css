@@ -1,1 +1,60 @@
-# style
+body {
+
+    background-color: #A9A9A9;
+    color: black;
+
+    font-size: 16px;
+    font-weight: normal;
+   /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+   font-family: 'DM+Serif+Display', sans-serif;
+}
+
+#ava {
+
+    width: 200px;
+    border-radius: 30px;
+}
+.info-text{
+    margin: 40px;
+    margin-left: 40px;
+    
+}
+
+.info {
+
+    display: flex;
+    margin-bottom: 20px;
+}
+.Contacts {
+    margin-bottom: 10px;
+    padding: 20px;
+background: moccasin;
+border-radius: 40px;
+}
+.Skills {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+background: skyblue;
+border-radius: 40px;
+}
+.container {
+    
+    max-width: 1000px;
+    margin: auto;
+
+}
+footer {
+   
+    padding: 20px;
+    background: seashell;
+    
+}
+* {
+    box-sizing: border-box;
+  }
+
+
+
+  
+
